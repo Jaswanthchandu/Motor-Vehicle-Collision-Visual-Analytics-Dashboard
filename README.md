@@ -4,7 +4,7 @@
 This project examines motor vehicle collisions in New York City, providing insights into crash frequency, spatial hotspots, temporal patterns, contributing factors, and vehicle involvement. Using Tableau, the analysis explores relationships across time, location, severity, and human behavior to uncover key trends within the data. The purpose of this project is to identify factors influencing crash occurrence and severity, highlight high-risk areas and behaviors, and provide actionable insights that can support data-driven decisions aimed at improving road safety in NYC.
 
 # Data Source
-Data Source
+Data Source : 
  NYC Open Data – Motor Vehicle Collisions (Crashes)  
  Dataset Page: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
