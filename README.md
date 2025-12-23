@@ -5,8 +5,8 @@ This project examines motor vehicle collisions in New York City, providing insig
 
 # Data Source
 Data Source
-# NYC Open Data – Motor Vehicle Collisions (Crashes)  
-# Dataset Page: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+ NYC Open Data – Motor Vehicle Collisions (Crashes)  
+ Dataset Page: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 # Dashboard Analysis
 # 1) NYC Traffic Accidents: The Big Picture : 
